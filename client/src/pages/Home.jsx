@@ -32,8 +32,8 @@ const Home = () => {
                 className="flex flex-col gap-5"
                 >
                     <p className="max-w-md font-normal text-grey-600 text-base">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor eaque ex <strong>Krish</strong> {" "}
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, neque.
+                        Create your own unique and exclusive shirt with our band new 3D customization tool.<strong>Unleash your imagination</strong> {" "} 
+                        and define your style.
                     </p>
 
                     <CustomButton 
